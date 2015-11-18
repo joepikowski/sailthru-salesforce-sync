@@ -1,9 +1,9 @@
 /*
 / Salesforce / Zendesk Sync
-/ Version: 1.0
+/ Version: 1.3
 / Author: Joe Pikowski
 / Company: Sailthru
-/ Date: February 2015
+/ Date: November 2015
 */
 
 //node start.js [limit] [offset]
